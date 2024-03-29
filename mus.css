@@ -1,0 +1,87 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    
+}
+header{
+    font-size: 34px;
+    background-color: darkgray;
+    padding: 12px;
+    border-radius: 22px;
+    margin: 12px;
+    text-transform:capitalize; 
+    color: whitesmoke;
+    border-style: dotted;
+    
+}
+
+button{
+    color: white;
+    border-radius: 4px;
+    text-transform: uppercase;
+    text-align: center;
+    background-color: black;
+    margin: 20px;
+    
+    
+}
+.mus button{
+    margin: 20px;
+    padding: 13px;
+    size: 15px;
+    border-radius: 10px;
+}
+    
+.header1{
+    background-color: #808080;
+    margin: 12px;
+    padding: 10px;
+    border-radius: 10px;
+    border-style: dotted;
+
+}
+
+h2{
+    margin: 20px;
+    color: aliceblue;
+    top: 12px;
+}
+hr{
+    
+    margin-bottom: 10px;
+}
+.header1 .sel .asd{
+ border-style: dotted;
+ border-radius: 10px;
+ color: aliceblue;
+}
+.header1 .sel1 .qwe{
+    border-style: dotted;
+ border-radius: 10px;
+ color: aliceblue;
+ 
+
+}
+.header1 .sel2 .zxc{
+    border-style: dotted;
+ border-radius: 10px;
+ color: aliceblue;
+ 
+
+}
+
+
+
+footer{
+    margin: 12px;
+    padding: 20px;
+    border-radius: 12px;
+    text-align: center;
+    text-transform: capitalize;
+    border-style: dotted;
+    background-color: #808080;
+
+}
+
+ 
